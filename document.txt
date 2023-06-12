@@ -1,0 +1,12 @@
+
+Kết luận: 
++ Khi sử dụng flex-box thì các phần tử sẽ (mặc định là sắp xếp theo chiều dọc sẽ chuyển thành chiều hàng)
++ Khi mô hình flex box theo chiều ngang thì thuộc tính được sử dụng để căn chỉnh các phần tử theo trục chính là (justify-content)
++ Khi mô hình flex box theo chiều dọc thì thuộc tính được sử dụng để căn chỉnh các phần tử theo trục chính là (align-item)
++ Để giãn các phần tử ra xa nhau ta sử dụng gap trong class cha
+
+-padding:
++ Nếu có 1 giá trị thì nó sẽ ảnh hươngr đến 4 chiều
++ Nếu có 2 giá trị thì nó sẽ ảnh theo chiều: giá trị 1(trên-dưới), giá trị 2(trái-phải)
++ Nếu có 3 giá trị thì nó sẽ ảnh hưởng: giá trị 1(trên), giá trị 2(trái-phải), giá trị 3(bên dưới)
++ Nếu 4 giá trị thì nó sẽ theo chiều kim đồng hồ
